@@ -23,9 +23,11 @@
 
 🌱  I’ve been studying **Python**, **Rust**, **Go**, and **SQL** on ![Udemy](https://img.shields.io/badge/-Udemy-0D1117?style=flat&logo=udemy) the most lately
 
-⚡ **Currently working on** learning `Data Engineering` **&** doing `sqlite3 exercises`
+⚡ **Currently working on** learning `Azure Databricks` **&** doing `sqlite3 exercises`
 
-💬 Reach out to me any time you'd like through **<a target="_blank" href="https://linktr.ee/sootynemm">my socials</a>**
+📤 If you're curious about my professional experience, please **<a style="text-decoration:none" target="_blank" href="https://github.com/sootynemm/sootynemm/blob/main/Jay%20Miller%20-%20CV.pdf">view my CV on GitHub</a>**
+
+💬 And reach out to me any time you'd like through **<a style="text-decoration:none" target="_blank" href="https://linktr.ee/sootynemm">my socials</a>**
 
   <br>
   
@@ -79,13 +81,15 @@
   ![NumPy](https://img.shields.io/badge/-NumPy-0D1117?style=flat&logo=numpy)&nbsp;
   ![Pandas](https://img.shields.io/badge/-Pandas-0D1117?style=flat&logo=pandas)&nbsp;
   ![SciPy](https://img.shields.io/badge/-SciPy-0D1117?style=flat&logo=scipy)&nbsp;
+  ![Plotly](https://img.shields.io/badge/-Plotly-0D1117?style=flat&logo=plotly)&nbsp;
+  ![scikit-learn](https://img.shields.io/badge/-scikit--learn-0D1117?style=flat&logo=scikit-learn)&nbsp;
 
-### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Software_Tools.gif?raw=true" width = 20px>  </picture> Technical Writing
+### Technical Writing
 
   ![Markdown](https://img.shields.io/badge/-Markdown-0D1117?style=flat&logo=markdown)
   ![DITA XML](https://img.shields.io/badge/-DITA%20XML-0D1117?style=flat&logo=xml)&nbsp;
 
-### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/IDEs.gif?raw=true" width = 20px>  </picture> IDEs
+### IDEs
 
   ![Visual Studio Code](https://img.shields.io/badge/-VS%20Code-0D1117?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
   ![Jupyter Notebook](https://img.shields.io/badge/-Jupyter%20Notebook-0D1117?style=flat&logo=jupyter)&nbsp;
@@ -114,7 +118,7 @@
 
 </div>
 
-[![](https://visitcount.itsvg.in/api?id=sootynemm&label=Profile%20Views&color=11&icon=1&pretty=false)](https://visitcount.itsvg.in)
+📤 **<a target="_blank" href="https://github.com/sootynemm/sootynemm/blob/main/Jay%20Miller%20-%20CV.pdf">View my CV on GitHub! 🔗</a>** 
 ------
 Source code borrowed from: [ElioChiu](https://github.com/ElioChiu)'s and [Pepyn0](https://github.com/Pepyn0)'s readme files (thanks guys!).
 
